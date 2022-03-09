@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.row {
+  text-align: center;
+}
+
+.hide-me, .hide-me-last {
+  display:none
+}
